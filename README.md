@@ -123,7 +123,7 @@
 #### IRC: https://discord.gg/YMFm7xs
 #### Contact: jiitodc@gmail.com
 #### Contact Person: 
-- Ankit Khandelwal (@ankk98)(ankk98@gmail.com)
+- Ankit Khandelwal (@ankk98) (ankk98 [at] protonmail [dot] com)
 #### Other Links: 
 - https://www.facebook.com/groups/jiitodc/ 
 - https://twitter.com/jiitodc
