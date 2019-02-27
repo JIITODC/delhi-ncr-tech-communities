@@ -1,36 +1,13 @@
 # Delhi-NCR-Tech-Communities
 - A list of open tech communities of Delhi/NCR.
 - Aim of this repo is to make it easy to find communities and people to contact. 
-- Feel free to contribute and add communities in it.
+- Feel free to contribute and add communities to it.
+  
+### Contents:
+- [Open Communities](#open-communities)
+- [University Based Communities](#university-based-communities)
 
-
-## **JIIT Open Dev Circle - JODC**
-### College/Organisation: Jaypee Institute of Information Technology, Sector 128
-#### Website:
-#### Contact: jiitodc@gmail.com
-#### IRC: https://discord.gg/YMFm7xs
-#### Contact Person: 
-- Ankit Khandelwal (@ankk98)(ankk98@gmail.com)
-#### Other Links: 
-- https://www.facebook.com/groups/jiitodc/ 
-- https://twitter.com/jiitodc
-
-## **Open Source Developers Community - OSDC**
-### College/Organisation: Jaypee Institute of Information Technology, Sector 62
-#### Contact: 
-#### Contact Person: 
-#### Website: 
-#### IRC: https://t.me/jiitosdc
-#### Other Links:
-- https://www.facebook.com/groups/jiitlug/
-
-## **Aliases**
-#### Website: 
-#### Contact: 
-#### IRC:
-#### Contact Person: 
-#### Other Links: 
-https://www.facebook.com/asetalias/
+# Open Communities
 
 ## **Pydelhi**
 ### College/Organisation: Independent
@@ -40,7 +17,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links: 
 
-## Indian Linux Users Group Delhi
+## **Indian Linux Users Group Delhi**
 ### College/Organisation:
 #### Website: 
 #### IRC:
@@ -48,7 +25,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links: 
 
-## LinuxChix India
+## **LinuxChix India**
 ### College/Organisation:
 #### Website: 
 #### IRC:
@@ -56,7 +33,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links: 
  
-## Mozilla Delhi
+## **Mozilla Delhi**
 ### College/Organisation: 
 #### Website: 
 #### IRC:
@@ -64,7 +41,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links: 
 
-## Pydata Delhi
+## **Pydata Delhi**
 ### College/Organisation:
 #### Website: 
 #### IRC: 
@@ -72,7 +49,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links: 
 
-## Blockchained India
+## **Blockchained India**
 ### College/Organisation:
 #### Website: 
 #### IRC: 
@@ -80,7 +57,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links: 
 
-## FSM Delhi/NCR
+## **FSM Delhi/NCR**
 ### College/Organisation:
 #### Website: 
 #### IRC: 
@@ -88,7 +65,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 
-## Digital Ocean Delhi
+## **Digital Ocean Delhi**
 ### College/Organisation:
 #### Website: 
 #### IRC: 
@@ -96,7 +73,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 
-## Women Who Go Delhi
+## **Women Who Go Delhi**
 ### College/Organisation: 
 #### Website: 
 #### IRC:
@@ -104,7 +81,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 
-## PyLadies
+## **PyLadies**
 ### College/Organisation: 
 #### Website: 
 #### IRC:
@@ -112,7 +89,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 
-## Google Developer Group Delhi
+## **Google Developer Group Delhi**
 ### College/Organisation: 
 #### Website: 
 #### IRC:
@@ -120,7 +97,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 
-## Facebook Developer Circle Delhi
+## **Facebook Developer Circle Delhi**
 ### College/Organisation:
 #### Website: 
 #### IRC: 
@@ -128,7 +105,7 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 
-## Defcon Group NCR
+## **Defcon Group NCR**
 ### College/Organisation:
 #### Website: 
 #### IRC: 
@@ -136,3 +113,34 @@ https://www.facebook.com/asetalias/
 #### Contact Person: 
 #### Other Links:
 - https://www.facebook.com/dc91120/
+
+
+# University Based Communities
+
+## **JIIT Open Dev Circle - JODC**
+### College/Organisation: Jaypee Institute of Information Technology, Sector 128
+#### Website:
+#### IRC: https://discord.gg/YMFm7xs
+#### Contact: jiitodc@gmail.com
+#### Contact Person: 
+- Ankit Khandelwal (@ankk98)(ankk98@gmail.com)
+#### Other Links: 
+- https://www.facebook.com/groups/jiitodc/ 
+- https://twitter.com/jiitodc
+
+## **Open Source Developers Community - OSDC**
+### College/Organisation: Jaypee Institute of Information Technology, Sector 62
+#### Website: 
+#### IRC: https://t.me/jiitosdc
+#### Contact: 
+#### Contact Person: 
+#### Other Links:
+- https://www.facebook.com/groups/jiitlug/
+
+## **Aliases**
+#### Website:
+#### IRC: 
+#### Contact: 
+#### Contact Person: 
+#### Other Links: 
+https://www.facebook.com/asetalias/
