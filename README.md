@@ -12,13 +12,13 @@
 ## **Pydelhi**
 ### College/Organisation: Independent
 #### Website: https://pydelhi.org/
-#### IRC: https://t.me/joinchat/AAAAAEK2nzPg0IlwbbAing
-#### Contact: 
-#### Contact Person: 
-#### Other Links: 
+#### IRC/ Telegram/Slack : https://t.me/joinchat/AAAAAEK2nzPg0IlwbbAing
+#### Contact :  
+#### Contact Person: Rajat Saini
+#### Website Links: http://pydelhi.org
 
 ## **Indian Linux Users Group Delhi**
-### College/Organisation:
+### College/Organisation :
 #### Website: 
 #### IRC:
 #### Contact: 
